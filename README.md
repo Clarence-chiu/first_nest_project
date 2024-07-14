@@ -1,2 +1,4 @@
-# first_nest_project
-my first nest practice project
+
+## Info 
+
+- node version 18
